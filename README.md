@@ -1,6 +1,6 @@
 ## Descripción
 
-Proyecto de la página de https://www.frontendmentor.io/ para practicar el manejo del DOM y el uso de "position" y "z-index".
+Base con la que trabajar para mi portfolio.
 
 ## Tecnologías usadas
 
@@ -17,7 +17,7 @@ Jose Antonio Verdugo
 
 ## Ver ejemplo en vivo
 
-[![Live Site](https://img.shields.io/static/v1?label=&message=Live%20Site&color=6cccb4&style=for-the-badge)](https://jose-verdugo.github.io/FAQ-accordion/)
+[![Live Site](https://img.shields.io/static/v1?label=&message=Live%20Site&color=6cccb4&style=for-the-badge)](https://joseantonioverdugo.github.io/portfolio-base/)
 
 ## Instalación
 
